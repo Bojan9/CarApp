@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fuelOne"
+        android:title="Liters"/>
+
+    <item
+        android:id="@+id/fuelTwo"
+        android:title="Gallons (US)"/>
+
+    <item
+        android:id="@+id/fuelThree"
+        android:title="Gallons (UK)"/>
+
+    <item
+        android:id="@+id/fuelFour"
+        android:title="kWh"/>
+
+    <item
+        android:id="@+id/fuelFive"
+        android:title="kg"/>
+
+    <item
+        android:id="@+id/fuelSix"
+        android:title="m3"/>
+</menu>

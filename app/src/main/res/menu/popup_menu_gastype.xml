@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/GasOne"
+        android:title="Not set"/>
+
+    <item
+        android:id="@+id/GasTwo"
+        android:title="Gasoline"/>
+
+    <item
+        android:id="@+id/GasThree"
+        android:title="Diesel"/>
+
+    <item
+        android:id="@+id/GasFour"
+        android:title="LPG"/>
+
+    <item
+        android:id="@+id/GasFive"
+        android:title="CNG"/>
+
+    <item
+        android:id="@+id/GasSix"
+        android:title="Electric"/>
+
+    <item
+        android:id="@+id/GasSeven"
+        android:title="Flex"/>
+</menu>

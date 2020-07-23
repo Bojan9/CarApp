@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/consOne"
+        android:title="l/100km"/>
+
+    <item
+        android:id="@+id/consTwo"
+        android:title="mpg"/>
+
+    <item
+        android:id="@+id/consThree"
+        android:title="km/l"/>
+
+    <item
+        android:id="@+id/consFour"
+        android:title="km/gal"/>
+
+    <item
+        android:id="@+id/consFive"
+        android:title="mi/l"/>
+
+    <item
+        android:id="@+id/consSix"
+        android:title="kWh/100km"/>
+
+    <item
+        android:id="@+id/consSeven"
+        android:title="km/kWh"/>
+
+    <item
+        android:id="@+id/consEight"
+        android:title="mi/kWh"/>
+
+    <item
+        android:id="@+id/consNine"
+        android:title="kg/100km"/>
+
+</menu>

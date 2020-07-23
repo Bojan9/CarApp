@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="change_photo_dialog">ChangePhotoDialog</string>
+</resources>
